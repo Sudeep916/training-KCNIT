@@ -1,3 +1,4 @@
+
 function counter() {
 	let n=3;
 	function number() {
@@ -7,4 +8,4 @@ function counter() {
 	return number;
 }
 let number = counter();
-number();
+
